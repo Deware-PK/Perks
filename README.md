@@ -1,6 +1,7 @@
 # Perks
 Perks plugin which add special ability to players who has perks' item inside their inventory.\
-It also compatible with AirdropX ( By Deware ) and WeaponMechanics( By DeeCaaD )
+It also compatible with AirdropX ( By Deware ) and WeaponMechanics( By DeeCaaD )\
+Almost everything is customizable.
 
 Configuration: (You can find out what special ability that this plugin have below Buff section)
 
